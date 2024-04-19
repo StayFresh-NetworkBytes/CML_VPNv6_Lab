@@ -2,6 +2,8 @@
 
 ![alt text](./images/VPNv6_over_MPLS_IPv4.png "CML VPNv6 over IPv4 MPLS Lab" )
 
+## This lab was built using Cisco Modeling Labs 2.7 with the latest Refplat ISO
+
 This lab provides a working example of an 6VPE configuration between two PEs connected via an IPv4 MPLS network.  It consists of the following nodes:
 
 6x Catalyst 8000v routers
