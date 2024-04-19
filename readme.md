@@ -2,7 +2,7 @@
 
 ![alt text](./images/VPNv6_over_MPLS_IPv4.png "CML VPNv6 over IPv4 MPLS Lab" )
 
-## This lab was built using Cisco Modeling Labs 2.7 with the latest Refplat ISO
+### Built using Cisco Modeling Labs 2.7 with the latest Refplat ISO
 
 This lab provides a working example of an 6VPE configuration between two PEs connected via an IPv4 MPLS network.  It consists of the following nodes:
 
@@ -32,4 +32,4 @@ Otherwise, if you import the configuration to CML without updating the yaml, sel
 
 Start the Lab and once booted, you should be able to ssh cisco@your_ip_address
 
-Password for all the Ubuntu host and routers is s3cr3tpw1
+Username/Password combo for the Ubuntu host and routers is cisco/cisco123
